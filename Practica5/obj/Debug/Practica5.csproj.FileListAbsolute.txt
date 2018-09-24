@@ -1,0 +1,6 @@
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica5\bin\Debug\Practica5.exe.config
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica5\bin\Debug\Practica5.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica5\bin\Debug\Practica5.pdb
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica5\obj\Debug\Practica5.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica5\obj\Debug\Practica5.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica5\obj\Debug\Practica5.pdb

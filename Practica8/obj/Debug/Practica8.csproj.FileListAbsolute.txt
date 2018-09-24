@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\bin\Debug\Practica8.exe.config
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\bin\Debug\Practica8.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\bin\Debug\Practica8.pdb
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\obj\Debug\Practica8.csprojResolveAssemblyReference.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\obj\Debug\Practica8.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\obj\Debug\Practica8.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica8\obj\Debug\Practica8.pdb

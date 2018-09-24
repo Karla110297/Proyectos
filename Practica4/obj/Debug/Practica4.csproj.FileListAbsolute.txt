@@ -1,0 +1,6 @@
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica4\bin\Debug\Practica4.exe.config
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica4\bin\Debug\Practica4.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica4\bin\Debug\Practica4.pdb
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica4\obj\Debug\Practica4.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica4\obj\Debug\Practica4.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica4\obj\Debug\Practica4.pdb

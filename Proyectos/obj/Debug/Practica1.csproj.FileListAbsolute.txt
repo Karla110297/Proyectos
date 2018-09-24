@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\bin\Debug\Proyectos.exe.config
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\bin\Debug\Proyectos.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\bin\Debug\Proyectos.pdb
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\obj\Debug\Practica1.csprojResolveAssemblyReference.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\obj\Debug\Practica1.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\obj\Debug\Proyectos.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Proyectos\obj\Debug\Proyectos.pdb

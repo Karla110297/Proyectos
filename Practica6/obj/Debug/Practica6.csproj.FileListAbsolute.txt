@@ -1,0 +1,7 @@
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\bin\Debug\Practica6.exe.config
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\bin\Debug\Practica6.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\bin\Debug\Practica6.pdb
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\obj\Debug\Practica6.csprojResolveAssemblyReference.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\obj\Debug\Practica6.csproj.CoreCompileInputs.cache
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\obj\Debug\Practica6.exe
+C:\Users\karla\OneDrive\Documents\EstructuraDeDatos\Proyectos\Practica6\obj\Debug\Practica6.pdb
